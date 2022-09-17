@@ -1,6 +1,8 @@
 ### Olá! Eu sou Pedro Henrique
 
 - Sou estudante de Desenvolvimento de Sistemas no Senai e de Ciência, Tecnologia e Inovação na UFBA.
+- Sou desenvolvedor Front-end com o Framework Angular e Back-end com o framework Spring Boot.
+- PostgreSql e MySql 
 
 -->
 
@@ -16,7 +18,6 @@
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" >
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
