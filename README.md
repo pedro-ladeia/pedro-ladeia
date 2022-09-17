@@ -4,8 +4,6 @@
 - Sou desenvolvedor Front-end com o Framework Angular e Back-end com o framework Spring Boot.
 - PostgreSql e MySql 
 
--->
-
 <div align="center">
   <a href="https://github.com/pedro-ladeia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-ladeia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
