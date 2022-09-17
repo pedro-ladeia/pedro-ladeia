@@ -28,5 +28,5 @@
   
   <div> 
   <a href = "mailto:pedro.ladeia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  <a href = "https://github.com/pedro-ladeia/pedro-ladeia/blob/output/github-contribution-grid-snake.svg" target="_blank"></a>
 </div>
