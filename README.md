@@ -3,7 +3,7 @@
 ### Trilha acadêmica 🎓:
 
 ##### Técnico em Desenvolvimento de Sistemas pela instituição SENAI
-##### Cursando Ciência, Tecnologia e Inovação pela UFBA
+##### Cursando Ciência, Tecnologia e Inovação pela instituição UFBA
 ##### Cursando DataScience na instituição Infinity School
 
 ### Experiência:
