@@ -8,7 +8,7 @@
 
 ### Experiência:
 
-##### Trabalhando atualmente na Infinity School como Monitor de Dev Full Stack e DataScience
+##### Trabalhando atualmente na Infinity School como Professor de Dev Full Stack e DataScience e como assistente na coordenação
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ladeia/)
 <div align="center">
