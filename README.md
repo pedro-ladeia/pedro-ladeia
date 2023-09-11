@@ -3,12 +3,12 @@
 ### Trilha acadêmica 🎓:
 
 ##### Técnico em Desenvolvimento de Sistemas pela instituição SENAI
-##### Cursando Ciência, Tecnologia e Inovação pela instituição UFBA
+##### Cursando Sistemas de Informação pela instituição UFBA
 ##### Cursando DataScience na instituição Infinity School
 
 ### Experiência:
 
-##### Trabalhando atualmente na Infinity School como Professor de Dev Full Stack e DataScience e como assistente na coordenação
+##### Trabalhando atualmente na Infinity School como coordenador de cursos de Dev Full-Stack
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ladeia/)
 <div align="center">
