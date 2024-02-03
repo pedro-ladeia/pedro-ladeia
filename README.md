@@ -1,4 +1,4 @@
-<h1> Hey there, I'm Pedro Henrique! 💻</h1>
+<h1> Hey there, I'm Pedro Henrique! 👋</h1>
 
 <div> 
      <a href = "mailto:pedro.ladeia02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
@@ -19,17 +19,16 @@
      <li>Worked as <strong>Course coordinator</strong> at <strong>Infinity School</strong> </li>
      <li>Worked as <strong>Full-stack Monitor and Teacher</strong> at <strong>Infinity School</strong> </li>
 </ul>
-          
-<p>I'm software developer graduated in Técnico em Desenvolvimento de Sistemas at SENAI and graduating in Sistemas de Informação at Universidade Federal da Bahia. I acted as monitor and course coordinator of programming at Infinity School, where i'm teacher. At the moment i'm software developer at Objetivo Sistemas, working mainly with PHP and Laravel. I'm passionate for find solutions for problems, my main feature is the sharp algorithms logic.</p>
 
-<p>You can contact me through of: <a href="mailto:pedro.ladeia02@gmail.com">pedro.ladeia02@gmail.com</a>.</p> 
+<h2>About me🙋‍♂️</h2> 
+<p>I'm software developer graduated in Técnico em Desenvolvimento de Sistemas at SENAI and graduating in Sistemas de Informação at Universidade Federal da Bahia. I acted as monitor and course coordinator of programming at Infinity School, where i'm teacher. At the moment i'm software developer at Objetivo Sistemas, working mainly with PHP and Laravel. I'm passionate for find solutions for problems, my main feature is the sharp algorithms logic.</p>
 <br>
 
-<p>I develop using this techonologies: </p>
+<h2>My Skills 🛠️</h2>
+<br>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,bootstrap,tailwind,nodejs,react,next,java,spring,python,mysql,mongodb
-)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,bootstrap,tailwind,nodejs,react,next,java,spring,python,mysql,mongodb)](https://skillicons.dev)
 
   </div>
   
