@@ -15,7 +15,9 @@
 
 <h2>Experience💼</h2>
 <ul>
-     <li>Currently Working as <strong>Software developer</strong> at <strong>Objetivo Sistemas</strong> </li>
+     <li>Working at <strong>CEF</strong></li>
+     <li>Worked with <strong>Cyber Security</strong> at <strong>SENAI Cimatec</strong> </li>
+     <li>Worked as <strong>Software developer</strong> at <strong>Objetivo Sistemas</strong> </li>
      <li>Worked as <strong>Course coordinator</strong> at <strong>Infinity School</strong> </li>
      <li>Worked as <strong>Full-stack Monitor and Teacher</strong> at <strong>Infinity School</strong> </li>
 </ul>
